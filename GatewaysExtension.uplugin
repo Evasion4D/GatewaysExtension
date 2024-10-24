@@ -1,0 +1,32 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.2.0",
+	"FriendlyName": "GatewaysExtension",
+	"Description": "Add type",
+	"Category": "Modding",
+	"CreatedBy": "Jean Michel",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Plugins": [
+		{
+			"Name": "SML",
+			"Enabled": true,
+			"SemVersion": "^3.8.0-dev"
+		}
+	],
+	"SemVersion": "1.2.0",
+	"GameVersion": ">=365306",
+	"LocalizationTargets": [
+		{
+			"Name": "GatewaysExtension",
+			"LoadingPolicy": "Always"
+		}
+	]
+}
