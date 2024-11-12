@@ -1,0 +1,211 @@
+﻿# GatewaysExtension Japanese translation.
+# Fill out your copyright notice in the Description page of Project Settings.
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: GatewaysExtension\n"
+"POT-Creation-Date: 2024-11-10 09:20\n"
+"PO-Revision-Date: 2024-11-10 09:20\n"
+"Language-Team: \n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#. Key:	7BF5745A46591238A7BAA0B55CA9A72D
+#. SourceLocation:	/GatewaysExtension/Catwalks/Catwalk_End/Build_Catwalk_End.Default__Build_Catwalk_End_C.mDisplayName
+#: /GatewaysExtension/Catwalks/Catwalk_End/Build_Catwalk_End.Default__Build_Catwalk_End_C.mDisplayName
+msgctxt ",7BF5745A46591238A7BAA0B55CA9A72D"
+msgid "Catwalk - End"
+msgstr ""
+
+#. Key:	600136AF453B18846A78F09F7F2733A0
+#. SourceLocation:	/GatewaysExtension/Catwalks/Catwalk_Ladder/Build_Catwalk_Ladder.Default__Build_Catwalk_Ladder_C.mDescription
+#: /GatewaysExtension/Catwalks/Catwalk_Ladder/Build_Catwalk_Ladder.Default__Build_Catwalk_Ladder_C.mDescription
+msgctxt ",600136AF453B18846A78F09F7F2733A0"
+msgid "Snaps to Foundations and other Catwalks.\r\nSpecifically designed for humans to walk on."
+msgstr ""
+
+#. Key:	7EB6E5F544426AF9B25F82B2D7CA74F5
+#. SourceLocation:	/GatewaysExtension/Catwalks/Catwalk_Ladder/Build_Catwalk_Ladder.Default__Build_Catwalk_Ladder_C.mDisplayName
+#: /GatewaysExtension/Catwalks/Catwalk_Ladder/Build_Catwalk_Ladder.Default__Build_Catwalk_Ladder_C.mDisplayName
+msgctxt ",7EB6E5F544426AF9B25F82B2D7CA74F5"
+msgid "Catwalk - Ladder"
+msgstr ""
+
+#. Key:	60538C6945FEEBF540025EA2AF5936C5
+#. SourceLocation:	/GatewaysExtension/Catwalks/Catwalk_Ramp_1M/Build_Catwalk_Ramp_1M.Default__Build_Catwalk_Ramp_1M_C.mDisplayName
+#: /GatewaysExtension/Catwalks/Catwalk_Ramp_1M/Build_Catwalk_Ramp_1M.Default__Build_Catwalk_Ramp_1M_C.mDisplayName
+msgctxt ",60538C6945FEEBF540025EA2AF5936C5"
+msgid "Catwalk Ramp - 1M"
+msgstr ""
+
+#. Key:	4867FE8B47377CFBFB10E68B9C7902CD
+#. SourceLocation:	/GatewaysExtension/Catwalks/Catwalk_Ramp_1M_Left/Build_Catwalk_Ramp_1M_Left.Default__Build_Catwalk_Ramp_1M_Left_C.mDisplayName
+#: /GatewaysExtension/Catwalks/Catwalk_Ramp_1M_Left/Build_Catwalk_Ramp_1M_Left.Default__Build_Catwalk_Ramp_1M_Left_C.mDisplayName
+msgctxt ",4867FE8B47377CFBFB10E68B9C7902CD"
+msgid "Catwalk Ramp - 1M Left"
+msgstr ""
+
+#. Key:	D3C557AA46CE950F499CD3BFB66B4045
+#. SourceLocation:	/GatewaysExtension/Catwalks/Catwalk_Ramp_1M_Middle/Build_Catwalk_Ramp_1M_Middle.Default__Build_Catwalk_Ramp_1M_Middle_C.mDisplayName
+#: /GatewaysExtension/Catwalks/Catwalk_Ramp_1M_Middle/Build_Catwalk_Ramp_1M_Middle.Default__Build_Catwalk_Ramp_1M_Middle_C.mDisplayName
+msgctxt ",D3C557AA46CE950F499CD3BFB66B4045"
+msgid "Catwalk Ramp - 1M Middle"
+msgstr ""
+
+#. Key:	BF3C2FE54614FBEB6E9E97830A7C631E
+#. SourceLocation:	/GatewaysExtension/Catwalks/Catwalk_Ramp_1M_Right/Build_Catwalk_Ramp_1M_Right.Default__Build_Catwalk_Ramp_1M_Right_C.mDisplayName
+#: /GatewaysExtension/Catwalks/Catwalk_Ramp_1M_Right/Build_Catwalk_Ramp_1M_Right.Default__Build_Catwalk_Ramp_1M_Right_C.mDisplayName
+msgctxt ",BF3C2FE54614FBEB6E9E97830A7C631E"
+msgid "Catwalk Ramp - 1M Right"
+msgstr ""
+
+#. Key:	0438B0544392F631571FB596DF814C4D
+#. SourceLocation:	/GatewaysExtension/Catwalks/Catwalk_Ramp_Left/Build_Catwalk_Ramp_Left.Default__Build_Catwalk_Ramp_Left_C.mDisplayName
+#: /GatewaysExtension/Catwalks/Catwalk_Ramp_Left/Build_Catwalk_Ramp_Left.Default__Build_Catwalk_Ramp_Left_C.mDisplayName
+msgctxt ",0438B0544392F631571FB596DF814C4D"
+msgid "Catwalk Ramp - Left"
+msgstr ""
+
+#. Key:	90A913334B05701CCB475789C333EBD5
+#. SourceLocation:	/GatewaysExtension/Catwalks/Catwalk_Ramp_Middle/Build_Catwalk_Ramp_Middle.Default__Build_Catwalk_Ramp_Middle_C.mDisplayName
+#: /GatewaysExtension/Catwalks/Catwalk_Ramp_Middle/Build_Catwalk_Ramp_Middle.Default__Build_Catwalk_Ramp_Middle_C.mDisplayName
+msgctxt ",90A913334B05701CCB475789C333EBD5"
+msgid "Catwalk Ramp - Middle"
+msgstr ""
+
+#. Key:	60E98B6448509752681DB8B25860F79E
+#. SourceLocation:	/GatewaysExtension/Catwalks/Catwalk_Ramp_Right/Build_Catwalk_Ramp_Right.Default__Build_Catwalk_Ramp_Right_C.mDisplayName
+#: /GatewaysExtension/Catwalks/Catwalk_Ramp_Right/Build_Catwalk_Ramp_Right.Default__Build_Catwalk_Ramp_Right_C.mDisplayName
+msgctxt ",60E98B6448509752681DB8B25860F79E"
+msgid "Catwalk Ramp - Right"
+msgstr ""
+
+#. Key:	A23B9E504905019E8B5B9D9C92B55F82
+#. SourceLocation:	/GatewaysExtension/Catwalks/Catwalk_SpiralStairs/Build_Catwalk_SpiralStairs.Default__Build_Catwalk_SpiralStairs_C.mDisplayName
+#: /GatewaysExtension/Catwalks/Catwalk_SpiralStairs/Build_Catwalk_SpiralStairs.Default__Build_Catwalk_SpiralStairs_C.mDisplayName
+msgctxt ",A23B9E504905019E8B5B9D9C92B55F82"
+msgid "Catwalk - Spiral Stairs"
+msgstr ""
+
+#. Key:	6FE288AD44A9AD623C1CE5960AE8D09D
+#. SourceLocation:	/GatewaysExtension/Catwalks/Catwalk_Stairs_1M/Build_Catwalk_Stairs_1M.Default__Build_Catwalk_Stairs_1M_C.mDisplayName
+#: /GatewaysExtension/Catwalks/Catwalk_Stairs_1M/Build_Catwalk_Stairs_1M.Default__Build_Catwalk_Stairs_1M_C.mDisplayName
+msgctxt ",6FE288AD44A9AD623C1CE5960AE8D09D"
+msgid "Catwalk Stairs - 1M"
+msgstr ""
+
+#. Key:	1E0155634FFCB2F121719295A43B2C4E
+#. SourceLocation:	/GatewaysExtension/Catwalks/Catwalk_Stairs_1M_Left/Build_Catwalk_Stairs_1M_Left.Default__Build_Catwalk_Stairs_1M_Left_C.mDisplayName
+#: /GatewaysExtension/Catwalks/Catwalk_Stairs_1M_Left/Build_Catwalk_Stairs_1M_Left.Default__Build_Catwalk_Stairs_1M_Left_C.mDisplayName
+msgctxt ",1E0155634FFCB2F121719295A43B2C4E"
+msgid "Catwalk Stairs - 1M Left"
+msgstr ""
+
+#. Key:	7A4027354891A3CBC6501E8A748DFB36
+#. SourceLocation:	/GatewaysExtension/Catwalks/Catwalk_Stairs_1M_Middle/Build_Catwalk_Stairs_1M_Middle.Default__Build_Catwalk_Stairs_1M_Middle_C.mDisplayName
+#: /GatewaysExtension/Catwalks/Catwalk_Stairs_1M_Middle/Build_Catwalk_Stairs_1M_Middle.Default__Build_Catwalk_Stairs_1M_Middle_C.mDisplayName
+msgctxt ",7A4027354891A3CBC6501E8A748DFB36"
+msgid "Catwalk Stairs - 1M Middle"
+msgstr ""
+
+#. Key:	96F746604F8EE082B610EBA2E1F3DD24
+#. SourceLocation:	/GatewaysExtension/Catwalks/Catwalk_Stairs_1M_Right/Build_Catwalk_Stairs_1M_Right.Default__Build_Catwalk_Stairs_1M_Right_C.mDisplayName
+#: /GatewaysExtension/Catwalks/Catwalk_Stairs_1M_Right/Build_Catwalk_Stairs_1M_Right.Default__Build_Catwalk_Stairs_1M_Right_C.mDisplayName
+msgctxt ",96F746604F8EE082B610EBA2E1F3DD24"
+msgid "Catwalk Stairs - 1M Right"
+msgstr ""
+
+#. Key:	E766EAC245A84D1E55ED25BA89313202
+#. SourceLocation:	/GatewaysExtension/Catwalks/Catwalk_Stairs_Left/Build_CatwalkStairs_Left.Default__Build_CatwalkStairs_Left_C.mDisplayName
+#: /GatewaysExtension/Catwalks/Catwalk_Stairs_Left/Build_CatwalkStairs_Left.Default__Build_CatwalkStairs_Left_C.mDisplayName
+msgctxt ",E766EAC245A84D1E55ED25BA89313202"
+msgid "Catwalk Stairs - Left"
+msgstr ""
+
+#. Key:	EEF77F4A40813CC22E158BA012B15B96
+#. SourceLocation:	/GatewaysExtension/Catwalks/Catwalk_Stairs_Middle/Build_Catwalk_Stairs_Middle.Default__Build_Catwalk_Stairs_Middle_C.mDisplayName
+#: /GatewaysExtension/Catwalks/Catwalk_Stairs_Middle/Build_Catwalk_Stairs_Middle.Default__Build_Catwalk_Stairs_Middle_C.mDisplayName
+msgctxt ",EEF77F4A40813CC22E158BA012B15B96"
+msgid "Catwalk Stairs - Middle"
+msgstr ""
+
+#. Key:	0FE802934F6F7F73A324ABAC6F124A5A
+#. SourceLocation:	/GatewaysExtension/Catwalks/Catwalk_Stairs_Right/Build_Catwalk_Stairs_Right.Default__Build_Catwalk_Stairs_Right_C.mDisplayName
+#: /GatewaysExtension/Catwalks/Catwalk_Stairs_Right/Build_Catwalk_Stairs_Right.Default__Build_Catwalk_Stairs_Right_C.mDisplayName
+msgctxt ",0FE802934F6F7F73A324ABAC6F124A5A"
+msgid "Catwalk Stairs - Right"
+msgstr ""
+
+#. Key:	326A09214B1D9040052970B44C606AC9
+#. SourceLocation:	/GatewaysExtension/Catwalks/Schematic_RS_Catwalks_Extension.Default__Schematic_RS_Catwalks_Extension_C.mDisplayName
+#: /GatewaysExtension/Catwalks/Schematic_RS_Catwalks_Extension.Default__Schematic_RS_Catwalks_Extension_C.mDisplayName
+msgctxt ",326A09214B1D9040052970B44C606AC9"
+msgid "Modern Catwalks - Extension"
+msgstr ""
+
+#. Key:	C29086AD439F0245A656AC9B63D7D797
+#. SourceLocation:	/GatewaysExtension/SC_Catwalks_Extension.Default__SC_Catwalks_Extension_C.mDisplayName
+#: /GatewaysExtension/SC_Catwalks_Extension.Default__SC_Catwalks_Extension_C.mDisplayName
+msgctxt ",C29086AD439F0245A656AC9B63D7D797"
+msgid "Catwalks - Extension"
+msgstr ""
+
+#. Key:	4DE5E15B48A3569A344228BEBE3E1D52
+#. SourceLocation:	/GatewaysExtension/SC_WalkWays_Extension.Default__SC_WalkWays_Extension_C.mDisplayName
+#: /GatewaysExtension/SC_WalkWays_Extension.Default__SC_WalkWays_Extension_C.mDisplayName
+msgctxt ",4DE5E15B48A3569A344228BEBE3E1D52"
+msgid "Walkways - Extension"
+msgstr ""
+
+#. Key:	F7B0024645B61AB5B47BB9AE537D52C0
+#. SourceLocation:	/GatewaysExtension/Walkways/Schematic_RS_Walkways_Extension.Default__Schematic_RS_Walkways_Extension_C.mDisplayName
+#: /GatewaysExtension/Walkways/Schematic_RS_Walkways_Extension.Default__Schematic_RS_Walkways_Extension_C.mDisplayName
+msgctxt ",F7B0024645B61AB5B47BB9AE537D52C0"
+msgid "Industrial Walkways - Extension"
+msgstr ""
+
+#. Key:	40DFF6B145102EBDDE6D699DDD0E73C9
+#. SourceLocation:	/GatewaysExtension/Walkways/Walkway_End/Build_Walkway_End.Default__Build_Walkway_End_C.mDescription
+#: /GatewaysExtension/Walkways/Walkway_End/Build_Walkway_End.Default__Build_Walkway_End_C.mDescription
+msgctxt ",40DFF6B145102EBDDE6D699DDD0E73C9"
+msgid "Snaps to Foundations and other Walkways.\nSpecifically designed for humans to walk on."
+msgstr ""
+
+#. Key:	B8ABDBF446AEC6541E4CB3BB6191A819
+#. SourceLocation:	/GatewaysExtension/Walkways/Walkway_End/Build_Walkway_End.Default__Build_Walkway_End_C.mDisplayName
+#: /GatewaysExtension/Walkways/Walkway_End/Build_Walkway_End.Default__Build_Walkway_End_C.mDisplayName
+msgctxt ",B8ABDBF446AEC6541E4CB3BB6191A819"
+msgid "Walkway - End"
+msgstr ""
+
+#. Key:	41FFA9754808E83B9108B2A53BCE3490
+#. SourceLocation:	/GatewaysExtension/Walkways/Walkway_Ladder/Build_Walkway_Ladder.Default__Build_Walkway_Ladder_C.mDisplayName
+#: /GatewaysExtension/Walkways/Walkway_Ladder/Build_Walkway_Ladder.Default__Build_Walkway_Ladder_C.mDisplayName
+msgctxt ",41FFA9754808E83B9108B2A53BCE3490"
+msgid "Walkway - Ladder"
+msgstr ""
+
+#. Key:	71E8A3E0400B6B3F81B924AE7EBCDA7B
+#. SourceLocation:	/GatewaysExtension/Walkways/Walkway_Ramp_Left/Build_Walkway_Ramp_Left.Default__Build_Walkway_Ramp_Left_C.mDisplayName
+#: /GatewaysExtension/Walkways/Walkway_Ramp_Left/Build_Walkway_Ramp_Left.Default__Build_Walkway_Ramp_Left_C.mDisplayName
+msgctxt ",71E8A3E0400B6B3F81B924AE7EBCDA7B"
+msgid "Walkway Ramp - Left"
+msgstr ""
+
+#. Key:	0E4BB8954E61F99A60B2B6A128BF3AE5
+#. SourceLocation:	/GatewaysExtension/Walkways/Walkway_Ramp_Middle/Build_Walkway_Ramp_Middle.Default__Build_Walkway_Ramp_Middle_C.mDisplayName
+#: /GatewaysExtension/Walkways/Walkway_Ramp_Middle/Build_Walkway_Ramp_Middle.Default__Build_Walkway_Ramp_Middle_C.mDisplayName
+msgctxt ",0E4BB8954E61F99A60B2B6A128BF3AE5"
+msgid "Walkway Ramp - Middle"
+msgstr ""
+
+#. Key:	70F08452471C00A571637790B643F5B1
+#. SourceLocation:	/GatewaysExtension/Walkways/Walkway_Ramp_Right/Build_Walkway_Ramp_Right.Default__Build_Walkway_Ramp_Right_C.mDisplayName
+#: /GatewaysExtension/Walkways/Walkway_Ramp_Right/Build_Walkway_Ramp_Right.Default__Build_Walkway_Ramp_Right_C.mDisplayName
+msgctxt ",70F08452471C00A571637790B643F5B1"
+msgid "Walkway Ramp - Right"
+msgstr ""
+
