@@ -1,4 +1,4 @@
-# GatewaysExtension
+# Gateways Extension
 Satisfactory Mod
 
 Add Catwalks and Walkways type
