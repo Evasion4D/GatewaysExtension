@@ -1,7 +1,7 @@
 {
 	"FileVersion": 3,
 	"Version": 3,
-	"VersionName": "3.2.1",
+	"VersionName": "3.2.2",
 	"FriendlyName": "GatewaysExtension",
 	"Description": "",
 	"Category": "Modding",
@@ -24,9 +24,9 @@
 		{
 			"Name": "JeanMichelCommonlib",
 			"Enabled": true,
-			"SemVersion": "3.0.0"
+			"SemVersion": "3.0.1"
 		}
 	],
-	"SemVersion": "3.2.1",
-	"GameVersion": ">=491125"
+	"SemVersion": "3.2.2",
+	"GameVersion": ">=502094"
 }
